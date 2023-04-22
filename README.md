@@ -1,5 +1,6 @@
 # Hi there 👋
-## Just started
+### Just trying to be better with front end development
+### Creating a project on my portfolio
 
 <!--
 **teenmaster/teenmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
